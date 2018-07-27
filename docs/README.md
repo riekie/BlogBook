@@ -1,7 +1,7 @@
 ---
 home: true 
 heroImage: /images/blogbook6.png
-actionText: Join us →
+actionText: Join BlogBook →
 actionLink: /welcome
 features:
 - title: Markdown Editing 
