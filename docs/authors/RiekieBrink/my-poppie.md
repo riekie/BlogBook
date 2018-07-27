@@ -1,3 +1,10 @@
+---
+meta:
+  - name: description
+    content: Gediggie deur ouma van Zanri Botha
+  - name: keywords
+    content: geleen, liefde
+---
 ## My Poppie
 
 ![My Poppie](./ouma-en-zanri.jpg)
@@ -19,3 +26,5 @@ Waar die liefde lê
 
 Geseënde liefling  
 **OUMA**
+
+&copy; Riekie Brink

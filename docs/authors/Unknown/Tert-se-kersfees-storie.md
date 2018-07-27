@@ -1,4 +1,11 @@
-# Tert se Kersfeesstorie
+---
+meta:
+  - name: description
+    content: Tert se Kersfeesstorie 
+  - name: keywords
+    content: kersfees, storie, tante, bybel
+---
+## Tert se Kersfeesstorie
 
 Ek brand al van lankal af om hierdie storie te vertel, maar ek het uitgehou tot nou toe. Merkwaardig, al moet ek dit self sê. As ek ‘n storie hoor, dan moet hy vertel word, maar hierdie een moes ek mee wag.
 

@@ -1,6 +1,12 @@
-# Worshondjies
+---
+meta:
+  - name: description
+    content: Gediggie oor worshondjies
+  - name: keywords
+    content: worshondjies
+---
+## Worshondjies
 ![Worshondjies](./worshondjies.jpg)  
-
 
 Twee worshondjies  
 Uit kombersies gesiggies  
@@ -19,3 +25,5 @@ Hoe moet ek hulle bewaar
 Teen die aankomende gevaar  
 Hulle is my hondekinders  
 Agterbly nooit as te nimmer
+
+&copy; Riekie Brink

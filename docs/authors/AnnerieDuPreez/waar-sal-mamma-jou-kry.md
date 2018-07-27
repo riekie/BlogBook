@@ -1,4 +1,11 @@
-# Waar sal Mamma jou kry?
+---
+meta:
+  - name: description
+    content: Gediggie geskryf deur 'n mamma wat haar klein dogtertjie aan die dood moes afstaan
+  - name: keywords
+    content: mamma
+---
+## Waar sal Mamma jou kry?
 
 **02 Desember 1998 – 14 September 2000**  
 *Simóne*
@@ -30,3 +37,5 @@ Sal jy vir mamma by die Hemelpoort
 met een van jou nat soentjies inwag?
 
 Sê vir mamma waar sal ek jou kry…
+
+&copy; Annerie du Preez

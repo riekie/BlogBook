@@ -1,8 +1,8 @@
 module.exports = {
     title: "BlogBook",
-    description: "Welcome to BlogBook - write poems, stories or any good literatue",
+    description: "Welcome to BlogBook - share your poem or story with us",
     themeConfig: {
-        logo: 'images/blogbook-100x80.png',
+        logo: '/images/blogbook6-100x80.png',
         sidebar: [
             {
                 title: 'Home',

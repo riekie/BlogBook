@@ -1,4 +1,11 @@
-# Die See
+---
+meta:
+  - name: description
+    content: Die see
+  - name: keywords
+    content: see, hoogwater, groot blou water
+---
+## Die See
 
 Die groot blou water kyk en tuur
 vir ‘n week vir ‘n dag of selfs vir ‘n uur
@@ -12,7 +19,7 @@ aan dae lank vervloë jonk sterk en flink
 my bruid en ek draf al langs die brekende water
 skertsend laggend en kom tot ons self eers ure later
 dit was die wonder  dae sorgloosedae weg gegly
-af hoekom gaan die dae maande jare so gou verby
+ag hoekom gaan die dae maande jare so gou verby
 
 Die groot blou water kyk en raai
 drie dogters en ‘n seuntjie daar trek hy al by die kaai
