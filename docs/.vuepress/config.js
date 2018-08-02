@@ -2,7 +2,7 @@ module.exports = {
     title: "BlogBook",
     description: "Welcome to BlogBook - share your poem or story with us",
     themeConfig: {
-        logo: '/images/blogbook6-100x80.png',
+        logo: '/images/bb.png',
         sidebar: [
             {
                 title: 'Home',
