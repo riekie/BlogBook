@@ -1,6 +1,9 @@
 module.exports = {
     title: "BlogBook",
     description: "Welcome to BlogBook - share your poem or story with us",
+    head: [
+        ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `/images/favicon.ico` }]
+    ],
     themeConfig: {
         logo: '/images/bb.png',
         sidebar: [

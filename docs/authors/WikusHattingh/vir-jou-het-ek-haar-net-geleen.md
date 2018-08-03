@@ -8,6 +8,7 @@ meta:
 ## Vir jou het ek haar net geleen
 
 ![dogtertjie](./Wikus.jpg)
+  
 Ek sien jou orals waar ek gaan  
 Dis jy wat by die tafel staan  
 Met handjies uitgerek na meer  
