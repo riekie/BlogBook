@@ -1,6 +1,6 @@
 ---
 home: true 
-heroImage: /images/blogbook.png
+heroImage: /images/blogbook.svg
 actionText: Join BlogBook →
 actionLink: /welcome
 features:
