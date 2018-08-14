@@ -6,8 +6,8 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/images/bb.png',
-        docsDir: 'docs',
-        repo: 'riekie/BlogBook',
+        //docsDir: 'docs',
+        //repo: 'riekie/BlogBook',
         sidebar: [
             {
                 title: 'Home',
