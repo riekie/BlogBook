@@ -14,4 +14,20 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "RiekieBrink"
+    label: "Riekie Brink"
+    folder: "docs/authors/RiekieBrink"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "AnnerieDuPreez"
+    label: "Annerie du Preez"
+    folder: "docs/authors/AnnerieDuPreez"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}

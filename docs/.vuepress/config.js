@@ -6,22 +6,24 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/images/bb.png',
-        //docsDir: 'docs',
+        //docsDir: 'docs', //github link
         //repo: 'riekie/BlogBook',
+        //displayAllHeaders: true, // Default: false
+        sidebarDepth: 2,
         sidebar: [
             {
                 title: 'Home',
-                collapsable: false,
+                collapsable: true,
                 children: [
-                    '/welcome',
-                    '/authors/',
-                    '/books/'
+                    ['/', 'Welcome'],
+                    ['/welcome', 'Join Us']
                 ]
             },
             {
                 title: 'Blogs',
-                collapsable: false,
+                collapsable: true,
                 children: [
+                    '/authors/',
                     '/authors/AndriesWillemBrink/',
                     '/authors/AnnerieDuPreez/',
                     '/authors/RiekieBrink/',
@@ -31,8 +33,9 @@ module.exports = {
             },
             {
                 title: 'Books',
-                collapsable: false,
+                collapsable: true,
                 children: [
+                    '/books/',
                     '/books/simone'
                 ]
             }
