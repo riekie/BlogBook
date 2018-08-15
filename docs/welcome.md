@@ -5,7 +5,7 @@ title: Join BlogBook
 please contact us:</p>
 <div class="form-style-2">
     <div class="form-style-2-heading">Provide your information</div>
-    <form name="contact" netlify>
+    <form name="contact" netlify method="POST">
         <label for="field1"><span>Name <span class="required">*</span></span><input type="text" class="input-field" name="field1" id="field1" value="" /></label>
         <label for="field2"><span>Email <span class="required">*</span></span><input type="text" class="input-field" name="field2" id="field2" value="" /></label>
         <label><span>Telephone</span><input type="text" class="tel-number-field" name="tel_no_1" value="" maxlength="3" />-<input type="text" class="tel-number-field2" name="tel_no_2" value="" maxlength="7"/></label>
