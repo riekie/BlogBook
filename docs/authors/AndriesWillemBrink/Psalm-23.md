@@ -5,7 +5,7 @@ meta:
   - name: keywords
     content: Here, Herder, skaap, vertrou, goedheid
 ---
-## Psalm 23
+### Psalm 23
 
 Psalm 23 (Bron:- Psalm 23 en Bybel)  
 Dis ’n leeftyd se ding en steeds verder  

@@ -16,14 +16,14 @@ module.exports = {
                 collapsable: true,
                 children: [
                     ['/', 'Welcome'],
-                    ['/welcome', 'Join Us']
+                    ['/welcome', 'Join Us'],
+                    '/authors'
                 ]
             },
             {
                 title: 'Blogs',
                 collapsable: true,
                 children: [
-                    '/authors/',
                     '/authors/AndriesWillemBrink/',
                     '/authors/AnnerieDuPreez/',
                     '/authors/RiekieBrink/',
