@@ -53,7 +53,7 @@ module.exports = {
                 ]
             },
             { text: 'Books', link: '/books/'},
-            { text: 'Admin', link: '/admin/'}
+            { text: 'Admin', link: '/admin/#/'}
         ]
     }
 }
