@@ -28,6 +28,7 @@ module.exports = {
                     '/authors/AnnerieDuPreez/',
                     '/authors/RiekieBrink/',
                     '/authors/WikusHattingh/',
+                    '/authors/ZeaBotha/',
                     '/authors/Unknown/'
                 ]
             },
@@ -49,6 +50,7 @@ module.exports = {
                     { text: 'Annerie du Preez', link: '/authors/AnnerieDuPreez/' },
                     { text: 'Riekie Brink', link: '/authors/RiekieBrink/' },
                     { text: 'Wikus Hattingh', link: '/authors/WikusHattingh/' },
+                    { text: 'Zea Botha', link: '/authors/ZeaBotha/' },
                     { text: 'Unknown', link: '/authors/Unknown/' }
                 ]
             },
