@@ -7,11 +7,14 @@ meta:
 ---
 ## Ons Goue Bruilof 1986
   
-50 Goue jare saam beleef, Die lewe loop nie altyd reguit  
-soms ook skeef.
-Soos Droogtes en Bek-en-Klou laat maar hul wrede Knou  
-maar geduld soos Job het Ouboet nog altyd gehad al  
-loop dinge nie so glad 'n plan het hy altyd gehad.  
+50 Goue jare saam beleef,  
+Die lewe loop nie altyd reguit   
+soms ook skeef.  
+Soos Droogtes en Bek-en-Klou  
+laat maar hul wrede Knou    
+maar geduld soos Job het Ouboet nog altyd gehad  
+al loop dinge nie so glad  
+'n plan het hy altyd gehad.    
 
 6 kinders saam groot gemaak al was dit inderdaad  
 geen maklike taak.  

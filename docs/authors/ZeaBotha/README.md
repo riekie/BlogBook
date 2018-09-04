@@ -3,7 +3,7 @@ title: Zea Botha
 ---
 ![Zea Botha](./ouma-zea-botha.jpg)  
 
-*20 November 1912 -  November *  
+*20 November 1912 - 30 November 2000*  
 
 # Zea Botha
 
