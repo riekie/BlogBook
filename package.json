@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "lodash": "^4.17.11",
     "vuepress": "0.12.0"
   },
   "scripts": {
