@@ -6,11 +6,11 @@ title: Andries Willem Brink
 # Andries Willem Brink
 
 
-- [Blindes](blindes.md)
-- [Die Naweek](die-naweek.md)
-- [Die Onse Vader](die-onse-vader.md)
-- [Die See](die-see.md)
-- [Die Tien Gebooie](die-tien-gebooie.md)
-- [En Skielik](en-skielik.md)
-- [Psalm 23](Psalm-23.md)
-- [Herinnering van Onthou](herinnering.md)
+- [Blindes](blindes.html)
+- [Die Naweek](die-naweek.html)
+- [Die Onse Vader](die-onse-vader.html)
+- [Die See](die-see.html)
+- [Die Tien Gebooie](die-tien-gebooie.html)
+- [En Skielik](en-skielik.html)
+- [Psalm 23](Psalm-23.html)
+- [Herinnering van Onthou](herinnering.html)
